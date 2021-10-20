@@ -1,2 +1,2 @@
-# Arnav-Prabhale.StopWatch
+# StopWatch
 StopWatch Desktop Application
